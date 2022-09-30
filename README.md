@@ -1,2 +1,2 @@
 # challengeone-encriptadordetexto2
-desafío de encriptador de texto arreglo de imagenes
+desafío de encriptador de texto modificaciones
